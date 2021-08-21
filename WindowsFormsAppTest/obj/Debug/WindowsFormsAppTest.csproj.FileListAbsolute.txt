@@ -1,0 +1,12 @@
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe.config
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.exe
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\WindowsFormsAppTest.pdb
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\bin\Debug\Guna.UI2.dll
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.AssemblyReference.cache
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.Form1.resources
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.Properties.Resources.resources
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.GenerateResource.cache
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.CoreCompileInputs.cache
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.csproj.CopyComplete
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.exe
+H:\C# WindowsForms\WindowsFormsAppTest\WindowsFormsAppTest\obj\Debug\WindowsFormsAppTest.pdb
